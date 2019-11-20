@@ -1,0 +1,26 @@
+{
+  "name": "ts-sample",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "config": "3.2.4",
+    "log4js": "6.0.0"
+  },
+  "bundleDependencies": [
+    "config",
+    "log4js"
+  ],
+  "devDependencies": {
+    "@types/config": "0.0.36",
+    "@types/jest": "^24.0.23",
+    "@types/node": "12.12.7",
+    "jest": "^24.9.0",
+    "ts-jest": "^24.1.0",
+    "ts-node": "8.5.0",
+    "tslint": "5.20.1",
+    "typescript": "3.7.2"
+  }
+}
