@@ -7,6 +7,9 @@
       "label": "ts-node",
       "type": "shell",
       "command": "node_modules\\.bin\ts-node ${relativeFile}"
+      // "label": "echo",
+      // "type": "shell",
+      // "command": "echo Hello"
     }
   ]
 }

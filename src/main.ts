@@ -1,4 +1,2 @@
-export function add100(a: number) {
-  const b: number = 100;
-  return a + b;
-}
+const message: string = 'world';
+console.log(`Hello ${message}`);
