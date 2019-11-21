@@ -1,5 +1,9 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
+# 管理しないファイルをgitの管理から外す
+# パスワードが記載されているファイル
+# 自動生成されるファイル
+
 # compiled output
 build
 
